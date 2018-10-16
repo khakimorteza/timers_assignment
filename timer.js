@@ -54,5 +54,5 @@ if (res === "r" && cpu === 0) {
 }
 
 } , 1000)
-rl.clos();
+rl.close();
 });
